@@ -8,7 +8,7 @@ Create a new student in Anthology Student
 Visual Studio Code - latest version
 
 ## Installation
-Download and install latest versoin of Visual Studio Code.
+Download and install latest version of Visual Studio Code
 
 ## Environment Variables
 You will need to set the following environment variables:
